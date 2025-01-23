@@ -50,8 +50,8 @@ Add Products: Use the interface to add new products and generate QR codes.
 Verify Products: Scan the QR code with the built-in scanner to verify product authenticity.
 ### Contact :
 If you need this project or have any questions, feel free to contact me.
-- Prabhakaran.S.R 
-- Catch me through E-mail : srprabha17@gmail.com .
+- Sadhiq Ali.S
+- Catch me through E-mail : sadhiqali0411@gmail.com .
 ## Demo Images : 
 <img width="960" alt="index" src="https://github.com/PrabhaCodz/Fake-Product-Detection/assets/134253851/d5ff8874-e26f-4c51-af06-ce8194226830">
 <img width="960" alt="manufacturer " src="https://github.com/PrabhaCodz/Fake-Product-Detection/assets/134253851/fd6f0451-4984-458a-87b6-1bf31046591e">
